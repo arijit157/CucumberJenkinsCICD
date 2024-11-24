@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+
+	<configuration>
+
+		<theme>dark</theme>
+
+		<encoding>UTF-8</encoding>
+
+		<protocol>https</protocol>
+
+		<documentTitle>NoOpCommerce | Test Report</documentTitle>
+
+		<reportName>NoOpCommerce Test Report</reportName>
+
+		<dateFormat>yyyy-MM-dd</dateFormat>
+
+		<timeFormat>HH:mm:ss</timeFormat>
+
+		<scripts>
+
+			<scripts>
+
+      <![CDATA[
+
+        $(document).ready(function() {
+
+        
+
+        });
+
+      ]]>
+
+			</scripts>
+
+
+
+			<!-- custom styles -->
+
+			<styles>
+
+      <![CDATA[
+
+        
+
+      ]]>
+
+			</styles>
+
+
+
+		</scripts>
+
+	</configuration>
+
+</extentreports>

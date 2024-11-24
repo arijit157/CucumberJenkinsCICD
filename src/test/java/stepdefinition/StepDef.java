@@ -48,7 +48,7 @@ public class StepDef {
 
 	@When("user gives the email {string}")
 	public void user_gives_the_email_and_password(String email){
-	    emailPage.typeEmail(email);
+	    emailPage.typeEmail(email);  //automates the typing of email
 	}
 
 	@When("user clicks the continue button")

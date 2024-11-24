@@ -6,7 +6,7 @@ Feature: Authentication
 
   Scenario: login and logout testing with valid credentials
     When user clicks on the account and list link
-    And user gives the email "9679114095"
+    And user gives the email "arijitbhakta611@gmail.com"
     And user clicks the continue button
     And user gives the password "Cas_1010"
     Then clicks the login button

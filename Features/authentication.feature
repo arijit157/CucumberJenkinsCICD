@@ -10,9 +10,6 @@ Feature: Authentication
     And user clicks the continue button
     And user gives the password "Cas_1010"
     Then clicks the login button
-    #Then user verifies the dashboard heading present on the home page
-    #When user clicks the logout button
-    #Then user verifies the login button present on the page
     And user closes the browser
 
   Scenario: login and logout testing with invalid credentials
